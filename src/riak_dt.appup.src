@@ -1,0 +1,10 @@
+{"2.1.0",
+  [{<<".*">>,
+    [ {restart_application, riak_dt}
+    ]}
+  ],
+  [{<<".*">>,
+    [ {restart_application, riak_dt}
+    ]}
+  ]
+}.
