@@ -1,8 +1,8 @@
 %% -*- erlang -*-
 {application, riak_dt,
  [
-  {description, ""},
-  {vsn, git},
+  {description, "CRDTs!"},
+  {vsn, "2.1.0"},
   {registered, []},
   {applications, [
                   kernel,
